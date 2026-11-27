@@ -1,0 +1,6 @@
+{
+  "name": "英打大師 - English Typing Master",
+  "description": "提供文章與單字模式、自訂測驗時間、即時速度與正確率分析、鍵盤視覺回饋與歷史紀錄的英打練習遊戲",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
